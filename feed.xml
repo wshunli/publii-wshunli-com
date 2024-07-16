@@ -55,7 +55,7 @@
                     <p><img src="https://publii.wshunli.com/media/posts/1/Cp37ARxBUSt3VbexwPbwtanlXahnzh5DnSGdcxpp-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>这是第一篇文章的内容</p>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://publii.wshunli.com/media/posts/1/wshunli_2024-01-22_22-23-22.png" alt="" width="944" height="944" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-xs.png 384w ,https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-sm.png 600w ,https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-md.png 768w ,https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-lg.png 1200w ,https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://publii.wshunli.com/media/posts/1/wshunli_2024-01-22_22-23-22.png" alt="" width="944" height="944" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-xs.png 300w ,https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-sm.png 480w ,https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-md.png 768w ,https://publii.wshunli.com/media/posts/1/responsive/wshunli_2024-01-22_22-23-22-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>

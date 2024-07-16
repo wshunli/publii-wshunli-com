@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>wshunli</title>
+    <link href="https://publii.wshunli.com/feed.xml" rel="self" />
+    <link href="https://publii.wshunli.com" />
+    <updated>2024-07-16T09:35:13+08:00</updated>
+    <author>
+        <name>wshunli</name>
+    </author>
+    <id>https://publii.wshunli.com</id>
+
+    <entry>
+        <title>这是第一篇文章</title>
+        <author>
+            <name>wshunli</name>
+        </author>
+        <link href="https://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html"/>
+        <id>https://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html</id>
+
+        <updated>2024-07-16T09:35:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是第一篇文章的内容
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>这是第一篇文章的内容</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

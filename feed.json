@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "wshunli",
     "description": "",
-    "home_page_url": "https://publii.wshunli.com",
-    "feed_url": "https://publii.wshunli.com/feed.json",
+    "home_page_url": "http://publii.wshunli.com",
+    "feed_url": "http://publii.wshunli.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "wshunli"
     },
     "items": [
         {
-            "id": "https://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html",
-            "url": "https://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html",
+            "id": "http://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html",
+            "url": "http://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html",
             "title": "这是第一篇文章",
             "summary": "这是第一篇文章的内容",
             "content_html": "<p>这是第一篇文章的内容</p>",

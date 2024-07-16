@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://publii.wshunli.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://publii.wshunli.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://publii.wshunli.com/</loc>
+<loc>http://publii.wshunli.com/</loc>
 </url>
 <url>
-<loc>https://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html</loc>
+<loc>http://publii.wshunli.com/zhe-shi-di-yi-pian-wen-zhang.html</loc>
 <lastmod>2024-07-16T09:35:13+08:00</lastmod>
 </url>
 </urlset>
